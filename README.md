@@ -1,4 +1,4 @@
-# Chess CLI
+# Chess Openings
 
 The main purpose of this chess cli (it might not be a CLI forever) is to provide a way to store
 chess openings with as many variations as you want as you learn them. Importantly, it will also
